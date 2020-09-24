@@ -1,0 +1,10 @@
+/* @font-face {
+  font-family: "hongguang";
+  src: url("./image/kunlun.ttf");
+} */
+.search-css{
+  color: red;
+  font-size: 18px;
+  /* font-family: "hongguang"; */
+  display: flex;
+}
